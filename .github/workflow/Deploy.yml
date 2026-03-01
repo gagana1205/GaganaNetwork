@@ -10,7 +10,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: gagana/custom-webapp   
+  IMAGE_NAME: gagana/custom-webapp
 
 jobs:
   build-and-deploy:
